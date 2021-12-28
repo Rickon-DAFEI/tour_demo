@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>城市详情</title>
+    <link rel="stylesheet" href="http://hovertree.com/texiao/css3/1/css/style.css" media="screen" type="text/css" />
+    <script src="js/echarts.min.js"></script>
+    <script src="js/china.js"></script>
+    <script src="js/vue-router.js"></script>
+    <script src="js/vue.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/swiper.min.js"></script>
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <link rel="stylesheet" href="css/binner.css">
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="./css/iconfont/iconfont.css">
+    <link rel="stylesheet" href="css/city.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/csslider.css" />
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+</head>
+<body>
+    <div class="city">
+        <div class="head_line1">
+            <div class="head_line1_left" style="color: #000;">全国旅游热度图</div>
+            <!-- <div class="head_line1_right"> -->
+            <div><a href="ticket.html">门票购买</a></div>
+            <div><a href="guide.html">出行指南</a></div>
+            <div>行程分享</div>
+            <div class="iconfont" style="font-size: 20px;"><a href="ticket.html">&#xe6d1;</a></div>
+            <div class="iconfont" style="font-size: 20px;">&#xe61a;</div>
+        </div>
+        <div id= "head">
+    
+            <div class="head_line2">
+                {{city}}-欢迎你的到来！
+            </div>
+        </div>
+        <h1 class='outlinedA'>{{city}}</h1>
+        <div class="csslider" id = "lider">
+            <input type="radio" name="slides" id="slides_1" checked />
+            <input type="radio" name="slides" id="slides_2" />
+            <input type="radio" name="slides" id="slides_3" />
+            <input type="radio" name="slides" id="slides_4" />
+            <input type="radio" name="slides" id="slides_N" />
+            <ul>
+                <li><img :src="banner_url[0]" alt=""></li>
+                <li><img :src="banner_url[1]" alt=""></li>
+                <li><img :src="banner_url[2]" alt=""></li>
+                <li><img :src="banner_url[3]" alt=""></li>
+                <li><img :src="banner_url[4]" alt=""></li>
+            </ul>
+            <div class="arrows">
+                <label for="slides_1"></label>
+                <label for="slides_2"></label>
+                <label for="slides_3"></label>
+                <label for="slides_4"></label>
+                <label for="slides_N"></label>
+                <label for="slides_1" class="goto-first"></label>
+                <label for="slides_N" class="goto-last"></label>
+            </div>
+            <div class="navigation">
+                <div>
+                    <label for="slides_1"></label>
+                    <label for="slides_2"></label>
+                    <label for="slides_3"></label>
+                    <label for="slides_4"></label>
+                    <label for="slides_N"></label>
+                </div>
+            </div>
+        </div>
+        <div class="list-wrap"  >
+            <a class="item clearfix" href="http://www.orientalpearltower.com/#/" target="_blank" v-for="(sel_mes,index) in sells" >
+                <div class="image">
+                    <img :src="sel_mes.imgurl" width="200" height="150">
+                <span class="mark-type type-10">
+                    <strong>{{city}}</strong>
+                    <span>景区/场馆</span>
+                </span>
+                            </div>
+                <div class="detail">
+                    <div class="info">
+                        <p>月售{{sel_mes.sel_num}}</p>
+                        <h3>
+                            {{sel_mes.h3}}
+                        </h3>
+                        <div class="s-tag">
+                                <span>{{sel_mes.span1}}</span>
+                                <span>{{sel_mes.span2}}</span>
+                                <span>{{sel_mes.span3}}</span>
+                        </div>
+                        <p>
+                            <!-- <span class="t">店铺:&nbsp;旅游</span> -->
+                        </p>
+                                    </div>
+                    <div class="extra">
+                        <div class="action">
+                            <span class="btn">立即预定</span>
+                            <div class="promo-tag">
+                      </div>
+                        </div>
+                        <span class="price"><b>￥</b><strong>{{sel_mes.money}}</strong>起</span>
+                                                        
+                        </div>
+                </div>
+            </a>
+    </div>
+    <div id="foot" style=" background-color: #fff; width:100%;display: flex;justify-content:center;align-items: center;height: 2rem;font-size:0.5rem">
+		<span style="color: rgb(175, 160, 160)"> ©  CopyRight 2020  Inc.All Rights Reserved. </span>
+	</div>
+    </div>
+
+   
+    <script src="js/city.js"></script>
+</body>
+</html>

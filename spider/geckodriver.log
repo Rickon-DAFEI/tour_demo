@@ -1,0 +1,527 @@
+Usage:
+    geckodriver [OPTIONS]
+geckodriver: Unknown option --port
+Usage:
+    geckodriver [OPTIONS]
+geckodriver: Unknown option --port
+1620476766257	geckodriver	INFO	Listening on 127.0.0.1:57782
+1620476769282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofile0dCFIN"
+1620476769569	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620476770875	Marionette	INFO	Listening on port 57796
+1620476771344	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620476804034	geckodriver	INFO	Listening on 127.0.0.1:57879
+1620476807051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileXvR8uw"
+1620476807314	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620476808572	Marionette	INFO	Listening on port 57889
+1620476808605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620476848654	geckodriver	INFO	Listening on 127.0.0.1:57986
+1620476851675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileYBMbxD"
+1620476851943	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 131: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+1620476853314	Marionette	INFO	Listening on port 57997
+1620476853738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+1620476891304	geckodriver	INFO	Listening on 127.0.0.1:58181
+1620476894336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileEGKzw0"
+1620476894608	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620476895821	Marionette	INFO	Listening on port 58192
+1620476895888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+1620476980340	geckodriver	INFO	Listening on 127.0.0.1:58428
+1620476987467	geckodriver	INFO	Listening on 127.0.0.1:58444
+1620476990493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofilejwQRRV"
+1620476990754	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620476992033	Marionette	INFO	Listening on port 58456
+1620476992047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+1620477466639	geckodriver	INFO	Listening on 127.0.0.1:59811
+1620477469665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofile4J1PgD"
+1620477469923	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620477471244	Marionette	INFO	Listening on port 59822
+1620477471727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-home/1.5.26/default/js/vendor-e9cf9d.js, line 1: unreachable code after return statement
+1620477545083	geckodriver	INFO	Listening on 127.0.0.1:60132
+1620477561673	geckodriver	INFO	Listening on 127.0.0.1:60169
+1620477564697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofilePRUnJT"
+1620477564962	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620477566412	Marionette	INFO	Listening on port 60185
+1620477566762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620477575503	geckodriver	INFO	Listening on 127.0.0.1:60242
+1620477578531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileSeEPXb"
+1620477578805	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620477580104	Marionette	INFO	Listening on port 60254
+1620477580595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620479747008	geckodriver	INFO	Listening on 127.0.0.1:63711
+1620479750033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileTimIHz"
+1620479750309	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620479751689	Marionette	INFO	Listening on port 63722
+1620479752097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620479767257	geckodriver	INFO	Listening on 127.0.0.1:63805
+1620479770281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofile0IVkHF"
+1620479770545	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620479771863	Marionette	INFO	Listening on port 63818
+1620479772345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620479786921	geckodriver	INFO	Listening on 127.0.0.1:63909
+1620479789947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileKNkGog"
+1620479790199	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620479791456	Marionette	INFO	Listening on port 63920
+1620479791501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620479800329	Marionette	INFO	Stopped listening on port 63920
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620480956459	geckodriver	INFO	Listening on 127.0.0.1:65156
+1620480959479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileWpbp6L"
+1620480959735	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620480961111	Marionette	INFO	Listening on port 65166
+1620480961541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620481023346	geckodriver	INFO	Listening on 127.0.0.1:65409
+1620481026366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofilen2dGTf"
+1620481026639	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620481027988	Marionette	INFO	Listening on port 65420
+1620481028430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620481056605	geckodriver	INFO	Listening on 127.0.0.1:65523
+1620481059628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileC18Gm3"
+1620481059890	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620481061188	Marionette	INFO	Listening on port 65532
+1620481061694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620481170810	geckodriver	INFO	Listening on 127.0.0.1:49414
+1620481173840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileBWgkkK"
+1620481174169	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620481175831	Marionette	INFO	Listening on port 49424
+1620481175906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620481235336	geckodriver	INFO	Listening on 127.0.0.1:49556
+1620481238362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofile9qONFy"
+1620481238628	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620481240163	Marionette	INFO	Listening on port 49568
+1620481240425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620481265910	geckodriver	INFO	Listening on 127.0.0.1:49679
+1620481268938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofilelqQhb2"
+1620481269305	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620481270881	Marionette	INFO	Listening on port 49689
+1620481271034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1620481314899	Marionette	INFO	Stopped listening on port 49689
+1620481374101	geckodriver	INFO	Listening on 127.0.0.1:49942
+1620481377132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofilekbmzTF"
+1620481377397	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620481378692	Marionette	INFO	Listening on port 49952
+1620481379197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620481528701	geckodriver	INFO	Listening on 127.0.0.1:50292
+1620481531733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofilea5uqM4"
+1620481532042	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620481533363	Marionette	INFO	Listening on port 50303
+1620481533796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620481538646	Marionette	INFO	Stopped listening on port 50303
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620481647939	geckodriver	INFO	Listening on 127.0.0.1:50552
+1620481650971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofile6OB5ce"
+1620481651266	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620481652551	Marionette	INFO	Listening on port 50561
+1620481653031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1620481657103	Marionette	INFO	Stopped listening on port 50561
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620481734339	geckodriver	INFO	Listening on 127.0.0.1:50932
+1620481737370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileISFQNG"
+1620481737651	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620481738986	Marionette	INFO	Listening on port 50968
+1620481739435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620481749039	geckodriver	INFO	Listening on 127.0.0.1:51064
+1620481752061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofile6APnby"
+1620481752327	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620481753565	Marionette	INFO	Listening on port 51076
+1620481753611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620481802549	geckodriver	INFO	Listening on 127.0.0.1:51222
+1620481805573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileqRj7oE"
+1620481805836	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620481807111	Marionette	INFO	Listening on port 51237
+1620481807125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620481917190	geckodriver	INFO	Listening on 127.0.0.1:51604
+1620481920217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofile8bXBj3"
+1620481920477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620481921721	Marionette	INFO	Listening on port 51615
+1620481921769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620481925793	Marionette	INFO	Stopped listening on port 51615
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620481967723	geckodriver	INFO	Listening on 127.0.0.1:51811
+1620481970757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileftbQgI"
+1620481971030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620481972335	Marionette	INFO	Listening on port 51823
+1620481972822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620482237114	geckodriver	INFO	Listening on 127.0.0.1:52538
+1620482240146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofilexMi9Rh"
+1620482240410	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620482241664	Marionette	INFO	Listening on port 52551
+1620482241699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620482262058	geckodriver	INFO	Listening on 127.0.0.1:52676
+1620482265093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofile0i27Wk"
+1620482265357	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620482266639	Marionette	INFO	Listening on port 52693
+1620482267156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620482287619	geckodriver	INFO	Listening on 127.0.0.1:52797
+1620482290650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileYHQGnB"
+1620482290924	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620482292240	Marionette	INFO	Listening on port 52809
+1620482292713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620482357664	geckodriver	INFO	Listening on 127.0.0.1:53020
+1620482360697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileh54uHz"
+1620482360962	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620482362221	Marionette	INFO	Listening on port 53036
+1620482362236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620482416514	geckodriver	INFO	Listening on 127.0.0.1:53225
+1620482422755	geckodriver	INFO	Listening on 127.0.0.1:53244
+1620482425780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileHvXckC"
+1620482426056	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620482427372	Marionette	INFO	Listening on port 53258
+1620482427845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620482478946	geckodriver	INFO	Listening on 127.0.0.1:53444
+1620482481978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileqVnFgy"
+1620482482256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620482483539	Marionette	INFO	Listening on port 53456
+1620482484041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620482500904	geckodriver	INFO	Listening on 127.0.0.1:53529
+1620482503941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofile3BCQEV"
+1620482504210	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620482505539	Marionette	INFO	Listening on port 53541
+1620482506006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620482534395	geckodriver	INFO	Listening on 127.0.0.1:53681
+1620482537423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileW3LGrv"
+1620482537698	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620482538998	Marionette	INFO	Listening on port 53693
+1620482539486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620482589040	geckodriver	INFO	Listening on 127.0.0.1:53871
+1620482592077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofilep2tndm"
+1620482592338	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620482593595	Marionette	INFO	Listening on port 53880
+1620482593630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620482713081	geckodriver	INFO	Listening on 127.0.0.1:54175
+1620482716107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofilePpq9PW"
+1620482716398	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620482717643	Marionette	INFO	Listening on port 54186
+1620482717668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620482960215	geckodriver	INFO	Listening on 127.0.0.1:54720
+1620482963247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileUS5Ecf"
+1620482963570	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620482964796	Marionette	INFO	Listening on port 54731
+1620482965310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620483548550	geckodriver	INFO	Listening on 127.0.0.1:55846
+1620483551583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofile1iFyC3"
+1620483551850	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620483553158	Marionette	INFO	Listening on port 55857
+1620483553648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620483716086	geckodriver	INFO	Listening on 127.0.0.1:56201
+1620483719124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileyEfmAn"
+1620483719436	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620483720907	Marionette	INFO	Listening on port 56214
+1620483721186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620483739214	geckodriver	INFO	Listening on 127.0.0.1:56271
+1620483742249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofilef70ST7"
+1620483742524	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620483743773	Marionette	INFO	Listening on port 56283
+1620483743803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620483789374	geckodriver	INFO	Listening on 127.0.0.1:56442
+1620483792404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofilePidKnh"
+1620483792683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620483794288	Marionette	INFO	Listening on port 56452
+1620483794468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620484051339	geckodriver	INFO	Listening on 127.0.0.1:57061
+1620484054375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofiletE3OTI"
+1620484054669	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620484055953	Marionette	INFO	Listening on port 57071
+1620484056436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620484366950	geckodriver	INFO	Listening on 127.0.0.1:57502
+1620484369982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileapXzQ0"
+1620484370272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620484371612	Marionette	INFO	Listening on port 57515
+1620484372047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620484410406	geckodriver	INFO	Listening on 127.0.0.1:57654
+1620484413443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileLqAfOh"
+1620484413716	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620484414971	Marionette	INFO	Listening on port 57665
+1620484414996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620484435569	geckodriver	INFO	Listening on 127.0.0.1:57766
+1620484438591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileMczgXY"
+1620484438858	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620484440134	Marionette	INFO	Listening on port 57776
+1620484440654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620484521548	geckodriver	INFO	Listening on 127.0.0.1:57932
+1620484524585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileEDckXf"
+1620484524851	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620484526121	Marionette	INFO	Listening on port 57942
+1620484526140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620484697856	geckodriver	INFO	Listening on 127.0.0.1:58296
+1620484700881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofilep5vhDj"
+1620484701166	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620484702495	Marionette	INFO	Listening on port 58305
+1620484702947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620484758318	geckodriver	INFO	Listening on 127.0.0.1:58500
+1620484761350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofilecLzzxh"
+1620484761626	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620484763283	Marionette	INFO	Listening on port 58512
+1620484763415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620484826399	geckodriver	INFO	Listening on 127.0.0.1:58703
+1620484829426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofiles8HE8c"
+1620484829708	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620484831195	Marionette	INFO	Listening on port 58714
+1620484831487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620484857573	geckodriver	INFO	Listening on 127.0.0.1:58820
+1620484860629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofilebxQRJZ"
+1620484860936	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620484862316	Marionette	INFO	Listening on port 58831
+1620484862684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620484902503	geckodriver	INFO	Listening on 127.0.0.1:58992
+1620484905537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileGwLD0B"
+1620484905805	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620484907051	Marionette	INFO	Listening on port 59002
+1620484907168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620484925877	geckodriver	INFO	Listening on 127.0.0.1:59095
+1620484928903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofilejjcuoq"
+1620484929166	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620484930467	Marionette	INFO	Listening on port 59109
+1620484930968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620485495663	geckodriver	INFO	Listening on 127.0.0.1:59905
+1620485498695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileh0kThJ"
+1620485498990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620485500306	Marionette	INFO	Listening on port 59915
+1620485500759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+1620485943133	geckodriver	INFO	Listening on 127.0.0.1:60554
+1620485946165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileIzvTRZ"
+1620485946489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620485947759	Marionette	INFO	Listening on port 60566
+1620485948225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1620486473733	geckodriver	INFO	Listening on 127.0.0.1:61433
+1620486476768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\1\\AppData\\Local\\Temp\\rust_mozprofileLMeyav"
+1620486477071	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620486478405	Marionette	INFO	Listening on port 61443
+1620486478826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement
+JavaScript warning: https://webresource.c-ctrip.com/ares2/vacation/vacation-list/1.3.7/default/js/vendor-e4516e.js, line 1: unreachable code after return statement

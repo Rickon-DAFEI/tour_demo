@@ -1,0 +1,44 @@
+<?php
+
+    include 'database.php';
+
+
+    $content = file_get_contents('php://input');
+    $post_data = json_decode($content,true);
+    if($post_data["req"]=='banner'){
+        $city = $post_data['city'];
+        // $sql = "select id,time,place,detail,level,contact_person,contact_phone,photo_url,place_se,flag from report where openid='".$_SESSION['openid']."' order by time desc;";
+        $sql = "select url from binner_pic where name = '".$city."' order by time desc limit 5;";
+        $res = $conn->query($sql);
+        $ans = array();
+        if($res->num_rows > 0)
+        {
+            
+            while($row = $res->fetch_assoc())
+            {
+              $name = $row["url"];
+               
+              array_push($ans, $name);
+            }
+            echo json_encode($ans,JSON_UNESCAPED_UNICODE);
+        }
+        else{
+            $sql = "select url from binner_pic where name = '内蒙古' order by time desc limit 5;";
+            $res = $conn->query($sql);
+            $ans = array();
+            if($res->num_rows > 0)
+            {
+                
+                while($row = $res->fetch_assoc())
+                {
+                  $name = $row["url"];
+                   
+                  array_push($ans, $name);
+                }
+                echo json_encode($ans,JSON_UNESCAPED_UNICODE);
+            }
+        }
+        $conn->close();
+    }
+
+?>

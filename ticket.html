@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="js/vue.js" type="text/javascript" charset="utf-8"></script>
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>
+		<script src="js/echarts.min.js"></script>
+		<script src="js/china.js"></script>
+		<script src="js/vue-router.js"></script>
+        <script src="js/swiper.min.js"></script>
+        <script src="js/banner.js"></script>
+        <link rel="stylesheet" href="css/swiper.min.css">
+
+		<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+		<link rel="stylesheet" href="./css/iconfont/iconfont.css">
+        <link rel="stylesheet" href="css/ticket.css">
+        <link rel="stylesheet" href="css/binner.css">
+        <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+        <style>
+            .hot_title{
+    width: 70%;
+    height: 40px;
+}
+.hot_main{
+    width: 70%;
+    height: auto;
+    /* padding-left: 40px; */
+    /* padding-top: 50px; */
+}
+ul,li{ 
+    padding:0;margin:0;list-style:none;
+    color: #808080;
+    
+}
+li{
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px 10px;
+}
+.order{
+    width: 80%;
+    height: 820px;
+    /* border: #808080 solid 1px; */
+    margin-top: 20px;
+}
+.rank{
+	width: 300px;
+	font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 14px;
+    height: 14px;
+    color: #0070c9;
+    border:#0070c9 solid 1px;
+    border-radius: 50%;
+}
+.place_name{
+	width: 200px;
+}
+
+        </style>
+</head>
+<body>
+    
+    <div class="ticket">
+        <div class="head_line1">
+            <div class="head_line1_left" style="color: #000;"><a href="index.html">全国旅游热度图</a></div>
+            <!-- <div class="head_line1_right"> -->
+            <div><a href="ticket.html" style="color: #000;">门票购买</a></div>
+            <div><a href="guide.html">出行指南</a></div>
+            <div><a href="share.html">行程分享</a></div>
+            <!-- <div class="iconfont" style="font-size: 20px;">&#xe6d1;</div> -->
+            <div class="iconfont" style="font-size: 20px;">&#xe61a;</div>
+        <!-- </div> -->
+        
+        </div>
+		<div id= "head">
+
+			<div class="head_line2">
+				在线购票，现在出发！
+			</div>
+		</div>
+        <div class="recommend" >
+            <div class="search_bar" style="background:url('https://pages.c-ctrip.com/ticket/online/index/title_bgL.png');">
+                <!-- <img src="img/title_bg.png" alt=""> -->
+                <div class="input_line">
+                    <input class="input_words" type="text" v-model='city' placeholder="在此输入城市" >
+                    <!-- <input type=""> -->
+                    <button class="commit" @click='jump'>
+                        搜索
+                    </button>
+                </div>
+
+            </div>
+            <div class="hot_banner">
+                <div class="hot_place">
+
+                    <div class="hot_title">
+                        <span class="iconfont" style="color: #0070c9; font-size: 25px;">
+                            &#xe659;
+                        </span>
+                        <span>热门景点</span>
+                    </div>
+                    <div class="hot_main">
+                        <ul>
+                            <li v-for = "(place,index) in places">
+                                <div class="rank">{{index+1}}</div>
+                                <div class="place_name">{{place}}</div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="pic_banner">
+                    <div class="swiper-container">
+
+                        <div class="swiper-wrapper">
+            
+                        <div class="swiper-slide"><img src="img/banner1.jpg"/></div>
+            
+                                <div class="swiper-slide"><img src="img/banner2.jpg"></div>
+            
+                                <div class="swiper-slide"><img src="img/banner3.jpg" alt=""></div>
+            
+                        </div>
+            
+                        <!-- 如果需要分页器 -->
+            
+                        <div class="swiper-pagination"></div>
+            
+                        </div>
+                        
+                </div>
+            </div>
+        <div id="tour">
+            <section class='center'>
+                <h2>热门旅游</h2>
+                <p>国内旅游、国外旅游、自助旅游、自驾旅游、游轮签证、主题旅游等各种热门最新旅游推荐</p>
+            </section>
+            <figure>
+                <a href="#"><img src="image/tour1.jpg" alt='曼谷-芭</a>提雅6日游'></a>
+                <figcaption><strong class='title'>&lt;云南6日游&gt;</strong>包团特惠，超丰富景点，升级1晚国五，无自费，更赠送600元/成人自费卷</figcaption>
+                <div>
+                <span class='price'>¥ <strong>2865</strong> 起</span>
+                <em class='sat'>满意度77%</em>
+                </div>
+                <div class="type">
+                    国内长线
+                </div>
+            </figure>
+    
+            <figure>
+                <a href="#"><img src="image/tour2.jpg" alt='美国'></a>
+                <figcaption><strong class='title'>&lt;内蒙古6日游&gt;</strong>包团特惠，超丰富景点，升级1晚国五，无自费，更赠送600元/成人自费卷</figcaption>
+                <div>
+                <span class='price'>¥ <strong>2865</strong> 起</span>
+                <em class='sat'>满意度77%</em>
+                </div>
+                <div class="type">
+                    国际长线
+                </div>
+            </figure>
+    
+            <figure>
+                <a href="#"><img src="image/tour3.jpg" alt='瑞典'></a>
+                <figcaption><strong class='title'>&lt;哈尔滨6日游&gt;</strong>包团特惠，超丰富景点，升级1晚国五，无自费，更赠送600元/成人自费卷</figcaption>
+                <div>
+                <span class='price'>¥ <strong>2865</strong> 起</span>
+                <em class='sat'>满意度77%</em>
+                </div>
+                <div class="type">
+                    国内长线
+                </div>
+            </figure>
+    
+            <figure>
+                <a href="#"><img src="image/tour4.jpg" alt='曼谷'></a>
+                <figcaption><strong class='title'>&lt;广州6日游&gt;</strong>包团特惠，超丰富景点，升级1晚国五，无自费，更赠送600元/成人自费卷</figcaption>
+                <div>
+                <span class='price'>¥ <strong>2865</strong> 起</span>
+                <em class='sat'>满意度77%</em>
+                </div>
+                <div class="type">
+                    国内长线
+                </div>
+            </figure>
+    
+            <figure>
+                <a href="#"><img src="image/tour5.jpg" alt='韩国'></a>
+                <figcaption><strong class='title'>&lt;辽宁6日游&gt;</strong>包团特惠，超丰富景点，升级1晚国五，无自费，更赠送600元/成人自费卷</figcaption>
+                <div>
+                <span class='price'>¥ <strong>2865</strong> 起</span>
+                <em class='sat'>满意度77%</em>
+                </div>
+                <div class="type">
+                    国内长线
+                </div>
+            </figure>
+    
+            <figure>
+                <a href="#"><img src="image/tour6.jpg" alt='日本'></a>
+                <figcaption><strong class='title'>&lt;江苏6日游&gt;</strong>包团特惠，超丰富景点，升级1晚国五，无自费，更赠送600元/成人自费卷</figcaption>
+                <div>
+                <span class='price'>¥ <strong>2865</strong> 起</span>
+                <em class='sat'>满意度77%</em>
+                </div>
+                <div class="type">
+                    国内长线
+                </div>
+            </figure>
+    
+            <figure>
+                <a href="#"><img src="image/tour7.jpg" alt='西班牙'></a>
+                <figcaption><strong class='title'>&lt;沿海6日游&gt;</strong>包团特惠，超丰富景点，升级1晚国五，无自费，更赠送600元/成人自费卷</figcaption>
+                <div>
+                <span class='price'>¥ <strong>2865</strong> 起</span>
+                <em class='sat'>满意度77%</em>
+                </div>
+                <div class="type">
+                    国内长线
+                </div>
+            </figure>
+    
+            <figure>
+                <a href="#"><img src="image/tour8.jpg" alt='泰国'></a>
+                <figcaption><strong class='title'>&lt;上海6日游&gt;</strong>包团特惠，超丰富景点，升级1晚国五，无自费，更赠送600元/成人自费卷</figcaption>
+                <div>
+                <span class='price'>¥ <strong>2865</strong> 起</span>
+                <em class='sat'>满意度77%</em>
+                </div>
+                <div class="type">
+                    国内长线
+                </div>
+            </figure>
+    
+            <figure>
+                <a href="#"><img src="image/tour9.jpg" alt='北京'></a>
+                <figcaption><strong class='title'>&lt;北京6日游&gt;</strong>包团特惠，超丰富景点，升级1晚国五，无自费，更赠送600元/成人自费卷</figcaption>
+                <div>
+                <span class='price'>¥ <strong>2865</strong> 起</span>
+                <em class='sat'>满意度77%</em>
+                </div>
+                <div class="type">
+                    国内长线
+                </div>
+            </figure>
+    
+        </div>
+        </div>
+    </div>
+
+    <script src="js/tickit.js"></script>
+</body>
+</html>
